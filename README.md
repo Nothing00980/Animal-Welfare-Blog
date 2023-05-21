@@ -14,7 +14,7 @@ Animal Welfare Blog is a website dedicated to raising awareness and promoting an
 
 To access the Animal Welfare Blog, follow these steps:
 
-1. Visit the website at [www.animalwelfareblog.com](https://www.animalwelfareblog.com).
+1. Visit the website at [https://nothing00980.github.io/Animal-Welfare-Blog/](https://nothing00980.github.io/Animal-Welfare-Blog/).
 2. Explore the different blog categories and articles.
 3. Engage with the community by leaving comments or participating in discussions.
 
